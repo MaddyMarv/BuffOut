@@ -1,4 +1,4 @@
-### BuffOut
+### [BuffOut](https://www.nexusmods.com/games/warhammer40kdarktide/mods/1454)
 
 Fades out buff bars when out of combat.
 
