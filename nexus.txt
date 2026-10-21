@@ -1,7 +1,7 @@
 Fades out buff bars when out of combat.
 
-[b]Options:[/b]
-
+[b]Mod Settings / Commands:[/b]
+[spoiler]
 [b]General Settings[/b]
 - Out of Combat Timeout (seconds)
 
@@ -9,6 +9,7 @@ Fades out buff bars when out of combat.
 - Fade-In Duration (seconds)
 - Fade-Out Duration (seconds)
 - Out of Combat Opacity
+[/spoiler]
 
 [b]Links:[/b]
 [url=https://github.com/MaddyMarv/BuffOut]Source Code[/url] | [url=https://www.nexusmods.com/profile/indicabunny]Nexus Mods Profile[/url] | [url=https://ko-fi.com/indicabunny]Support Me on Ko-fi[/url]
