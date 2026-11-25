@@ -7,7 +7,7 @@
     "funding": {
         "kofi": "https://ko-fi.com/indicabunny"
     },
-    "description": "Fades out buff bars when out of combat.",
+    "description": "Fades out buff bars when out of combat. Works with vanilla buff bars or BBM.",
     "dependencies": {
         "required": [],
         "self_after": [],

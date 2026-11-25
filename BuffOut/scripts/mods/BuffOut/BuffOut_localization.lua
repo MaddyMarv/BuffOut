@@ -3,7 +3,7 @@ return {
 		en = "BuffOut",
 	},
 	mod_description = {
-		en = "Fades out buff bars when out of combat.",
+		en = "Fades out buff bars when out of combat. Works with vanilla buff bars or BBM.",
 	},
 	general_settings = {
 		en = "General Settings",
